@@ -1,0 +1,22 @@
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #f2f2f2;
+  padding: 2em;
+  text-align: right;
+  vertical-align: top;
+}
+
+td {
+  padding: 1 ;
+}
+
+tbody {
+  vertical-align: top;
+}
+
+thead th {
+  border-bottom: 1px solid #ccc;
+}
